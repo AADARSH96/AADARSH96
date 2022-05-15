@@ -5,14 +5,22 @@ I am an electronics engineer turned coder with experience in building analytical
 - RDBMS - MySQL
 - Programming Language - Python & Shell Scripting, basic knowledge of Java
 - ALM Tools - JIRA
-- CI/CD - Git, BitBucket
+- CI/CD - Git, BitBucket , Github Actions
 - File Systems - Unix, HDFS
 - Analysis tools - MS Excel, Jupyter Notebook
 
 While my interests and areas of learning include Big Data, Data Science, and analytics, I am also a keen learner of software development and I am currently learning to contribute to open source projects on GitHub.
 
 When not dabbling with some kind of data, I spend time watching movies, playing cricket, and photography.
+
+You can find some of my work below
+https://github.com/Data-Metric/data-metric-connectors
+https://github.com/AADARSH96/zomato-data-analysis
+https://github.com/AADARSH96/weather-data-python
+https://github.com/AADARSH96/pyspark-data-analysis
+
 <!---
 AADARSH96/AADARSH96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
