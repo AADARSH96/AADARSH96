@@ -14,10 +14,10 @@ While my interests and areas of learning include Big Data, Data Science, and ana
 When not dabbling with some kind of data, I spend time watching movies, playing cricket, and photography.
 
 You can find some of my work below
-https://github.com/Data-Metric/data-metric-connectors
-https://github.com/AADARSH96/zomato-data-analysis
-https://github.com/AADARSH96/weather-data-python
-https://github.com/AADARSH96/pyspark-data-analysis
+- https://github.com/Data-Metric/data-metric-connectors
+- https://github.com/AADARSH96/zomato-data-analysis
+- https://github.com/AADARSH96/weather-data-python
+- https://github.com/AADARSH96/pyspark-data-analysis
 
 <!---
 AADARSH96/AADARSH96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
