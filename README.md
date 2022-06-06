@@ -1,11 +1,12 @@
 
-I am an electronics engineer turned coder with experience in building analytical solutions to address increasingly complex business questions related to data - storage, processing, cleaning, etc. I work with huge and disparate data sets and develop the data pipelines using a variety of technologies such as -
+I am an electronics engineer turned coder with experience in building analytical solutions to address increasingly complex business questions related to data - storage, processing, cleaning, etc. I work with huge and disparate data sets and develop the data pipelines using a variety of technologies such as 
 
 - BigData - HDFS, Spark, and Hive
-- RDBMS - MySQL
+- Cloud Skills - AWS Lambda, S3, ECR, Cloudwatch, Glue Data Catalog, Athena, Cloudformation
+- RDBMS - Oracle
 - Programming Language - Python & Shell Scripting, basic knowledge of Java
-- ALM Tools - JIRA
-- CI/CD - Git, BitBucket , Github Actions
+- ALM Tools - JIRA, Confluence
+- CI Skills - Git, BitBucket , Github Actions
 - File Systems - Unix, HDFS
 - Analysis tools - MS Excel, Jupyter Notebook
 
@@ -15,6 +16,7 @@ When not dabbling with some kind of data, I spend time watching movies, playing 
 
 You can find some of my work below
 - https://github.com/Data-Metric/data-metric-connectors
+- https://github.com/Data-Metric/data-metrics-mf-aws
 - https://github.com/AADARSH96/zomato-data-analysis
 - https://github.com/AADARSH96/weather-data-python
 - https://github.com/AADARSH96/pyspark-data-analysis
